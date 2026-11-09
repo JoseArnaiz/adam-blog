@@ -8,3 +8,5 @@ tags: [Blog]
 author: Jose Arnaiz Garcia
 ---
 Bienvenidos a mi cuenta de GitHub
+
+![Yosh Ginsu]({{site.baseurl}}/assets/img/imagen4.jpg)
